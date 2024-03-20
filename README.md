@@ -1,0 +1,2 @@
+# Intel_OpenCV_Training
+#Intel_AI_sw_Academy_OpenCV_Training
